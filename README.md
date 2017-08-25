@@ -11,7 +11,7 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 
 ➿- وراهه 
 
-git clone https://github.com/xnoverx/DEVNOVAR.git
+git clone https://github.com/hackr2009/DEVNOVAR.git
 
 🚼- وراهه
 
